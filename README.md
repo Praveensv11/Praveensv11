@@ -1,0 +1,1 @@
+I've been enjoying web development for the first time ever since i built my first Django project "Tasks". I'm currently on the look out for a role in backend web development, ideally writing python or Javascript. I'd especially love to work at a startup on a tight knit team where i can make an impace quickly. If you're hiring. Let's chat!
