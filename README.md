@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">I've been enjoying web development for the first time ever since i built my first Django project "Tasks". I'm currently on the look out for a role in backend web development, ideally writing python or Javascript. I'd especially love to work at a startup on a tight knit team where i can make an impace quickly. If you're hiring. Let's chat!</h3>
+<h3 align="center">I've been enjoying web development for the first time ever since i built my first Django project. I'm currently on the look out for a role in backend web development, ideally writing python or Javascript. I'd especially love to work at a startup on a tight knit team where i can make an impace quickly. If you're hiring. Let's chat!</h3>
 
-- 🔭 I’m currently working on [Connect](https://github.com/Praveensv11/Connect)
+- 🔭 I’m currently working on SkillCheckup(https://github.com/Praveensv11/SkillCheckup.git)
 
 - 📫 How to reach me **praveensv799@gmail.com**
 
